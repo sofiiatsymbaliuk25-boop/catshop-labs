@@ -1,1 +1,1 @@
-ghcr.io/sofiiatsymbaliuk25-boop/catshop-lab-02:8bf4a7b4bbda1418eb5596af5b69fd4ff9c3c580
+sha256:608e1fbab6e8b7b78cd6de2392f71109b3f2cf9289d35fce319a655d02366a94
